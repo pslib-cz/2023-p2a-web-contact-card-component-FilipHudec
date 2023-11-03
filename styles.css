@@ -1,0 +1,70 @@
+.icon-{
+    font-size: 1.5em;
+    vertical-align: middle;
+    margin: 0.25em;
+}
+
+main{
+    text-align: left;
+    margin: 0;
+    padding: 0;
+}
+
+
+.icon--brown{
+    color: chocolate;
+}
+
+.card__header{
+    width: 10em;
+    height: 10em;
+    margin: auto;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-top: -5em;
+    border: 0.2em solid white;
+    box-shadow: 0em 0em .2em;
+}
+
+body{
+    background-image: url(imgs/bg.webp);
+    background-size: cover;
+    background-position: center;
+}
+
+html{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.card p{
+    margin: .7em 0;
+    font-style: normal;
+    display: block;
+}
+
+.card{
+    background-color: #fff;
+    width: 18em;
+    display: inline-block;
+    margin: .5em;
+    margin-top: 6em;
+    box-shadow: .2em .20em .5em;
+}
+
+.profile-image{
+    width: 100%;
+    margin-top: -0.5em;
+}
+
+.card__body{
+    padding: 1em;
+}
+
+.card__heading{
+    font-size: 1.15em;
+    margin-bottom: 1em;
+    padding-bottom: 0.5em;
+    border-bottom: 1px solid black;
+}
+
+
